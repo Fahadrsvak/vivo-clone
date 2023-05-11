@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: vivo;
+    src:url('../fonts/vivo-Regular.ttf');
+}
+@font-face {
+    font-family: vivo-icon;
+    src:url('../fonts/vivo Light Extended/vivo Light Extended.otf');
+}
+body{
+    margin: 0px;
+    padding:0;
+    font-family: vivo;
+    background-color: rgb(223, 223, 223);
+} 
+.left-section{
+    font-family: vivo-icon;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    padding:0px;
+}
